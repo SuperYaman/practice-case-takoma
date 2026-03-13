@@ -7,14 +7,14 @@ import StarIsBornText from './components/StarIsBornText'
 import ImageGrid from './components/ImageGrid'
 import ImageCarousel from './components/ImageCarousel'
 import Footer from './components/Footer'
-import img1 from "./assets/images/didgeman-glass-sphere-1746506_1280.jpg";
-import img2 from "./assets/images/dimitrisvetsikas1969-cyprus-3184019_1280.jpg";
-import img3 from "./assets/images/ernesta10-dunes-5568253_1280.jpg";
-import img4 from "./assets/images/fdsfe67854-road-5990128_1920.jpg";
-import img5 from "./assets/images/geralt-never-stop-learning-3653430_1920.jpg";
-import img6 from "./assets/images/guojinliang4104-zhangye-9788010_1280.jpg";
-import img7 from "./assets/images/makalu-kyrgyzstan-4765706_1280.jpg";
-import img8 from "./assets/images/guojinliang4104-zhangye-9788010_1280.jpg";
+import img1 from "../public/assets/images/didgeman-glass-sphere-1746506_1280.jpg";
+import img2 from "../public//assets/images/dimitrisvetsikas1969-cyprus-3184019_1280.jpg";
+import img3 from "../public//assets/images/ernesta10-dunes-5568253_1280.jpg";
+import img4 from "../public//assets/images/fdsfe67854-road-5990128_1920.jpg";
+import img5 from "../public//assets/images/geralt-never-stop-learning-3653430_1920.jpg";
+import img6 from "../public//assets/images/guojinliang4104-zhangye-9788010_1280.jpg";
+import img7 from "../public//assets/images/makalu-kyrgyzstan-4765706_1280.jpg";
+import img8 from "../public//assets/images/guojinliang4104-zhangye-9788010_1280.jpg";
 
 
   export default function App() {

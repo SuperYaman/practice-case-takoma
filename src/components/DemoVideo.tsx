@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import { Play, Pause } from "lucide-react";
-import demoVideo from "../assets/video/demo-video.mp4";
+import demoVideo from "../../public/assets/video/demo-video.mp4";
 
 export default function DemoVideo() {
   const videoRef = useRef<HTMLVideoElement>(null);

@@ -1,8 +1,8 @@
 import CardGrid from "../utils/cardGrid";
-import img1 from "../assets/images/didgeman-glass-sphere-1746506_1280.jpg";
-import img2 from "../assets/images/dimitrisvetsikas1969-cyprus-3184019_1280.jpg";
-import img3 from "../assets/images/ernesta10-dunes-5568253_1280.jpg";
-import img4 from "../assets/images/fdsfe67854-road-5990128_1920.jpg";
+import img1 from "../../public/assets/images/didgeman-glass-sphere-1746506_1280.jpg";
+import img2 from "../../public/assets/images/dimitrisvetsikas1969-cyprus-3184019_1280.jpg";
+import img3 from "../../public/assets/images/ernesta10-dunes-5568253_1280.jpg";
+import img4 from "../../public/assets/images/fdsfe67854-road-5990128_1920.jpg";
 
 
 type Shot = {

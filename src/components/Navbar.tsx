@@ -64,7 +64,7 @@ export default function Navbar() {
             )}
           </div>
           <button className="p-2 bg-pink-400 hover:bg-pink-300 btn-sm rounded-full">
-            <Search className="w-4 h-4 text-white" />
+            <Search className="w-5 h-5 text-white" />
           </button>
         </div>
       </div>
