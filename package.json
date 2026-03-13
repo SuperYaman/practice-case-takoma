@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://https://github.com/SuperYaman/practice-case-takoma",
+  "homepage": "https://github.com/SuperYaman/practice-case-takoma",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
